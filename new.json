@@ -4,6 +4,7 @@
   "popup": {
     "menuitem": [
       {"value": "Open", "onclick": "OpenDoc()"},
+	  "value": "Open", "onclick": "OpenDoc()"},
     ]
   }
 }}
